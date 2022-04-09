@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "nombre": "Al final mueren los dos",
+        "precio": 1,
+        "imagen": "./Imagenes/al final mueren los dos.jpg"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Brillarás",
+        "precio": 1.2,
+        "imagen": "./Imagenes/brillarás.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Buscando Alaska",
+        "precio": 2.1,
+        "imagen": "./Imagenes/Buscando a Alaska.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "El día que dejó de nevar en Alaska",
+        "precio": 0.6,
+        "imagen": "./Imagenes/el dia que dejo de nevar en Alaska.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Serás",
+        "precio": 0.6,
+        "imagen": "./Imagenes/brillarás.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Serás",
+        "precio": 0.6,
+        "imagen": ""
+    }
+
+]
